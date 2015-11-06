@@ -1,0 +1,29 @@
+body {
+	background-image: url(http://pictures-full.org/wall/foto/img/b5885301d4c39c400f9f28a2753645c9.jpg);
+	background-size: 100%;
+	margin: 10px;
+}
+
+div {
+	text-align: left;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+}
+
+p {
+	margin: 10px;
+	padding: 5px;
+}
+
+span {
+	font-weight: bold;
+}
+
+li {
+	list-style-type: decimal;
+	margin-left: 3%;
+}
